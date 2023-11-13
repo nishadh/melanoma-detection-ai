@@ -1,4 +1,4 @@
-# Project Name
+# Melanoma Detection
 
 > Melanoma Detection by Nishadh Shrestha
 
